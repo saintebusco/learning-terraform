@@ -8,3 +8,6 @@
 # variable files, may iclude sensitive data
 *.tfvars
 
+entry-script.sh
+
+.gitignore
